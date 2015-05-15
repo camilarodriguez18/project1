@@ -10,6 +10,7 @@ h2.style-2 {
 body {
 	font-family: 'Lato', sans-serif; 
 	color: #5d5d5d;
+	font-weight: 300;
 }
 
 .text-thin {
@@ -18,11 +19,6 @@ body {
 
 .title-super {
 	font-size: 50px;
-}
-
-.row li {
-  width: 33.3%;
-  float: left;
 }
 
 img {
