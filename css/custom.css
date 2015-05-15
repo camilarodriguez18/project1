@@ -1,27 +1,32 @@
-
-hr.header {
+hr.style-1 {
 	border-top: 4px solid #bcb;
-	}
+}
 	
-h2.projects {
-	margin-left: 30px;
+h2.style-2 {
+	margin-left: 30px; 
 	margin-top: 30px;
-	}
-	
+}
+
 body {
-	font-family: 'Lato',sans-serif; color:#d5d; font-weight:300;
-	}
-	
+	font-family: 'Lato', sans-serif; 
+	color: #5d5d5d;
+}
+
 .text-thin {
 	font-weight: 100;
-	}
-	
+}
+
 .title-super {
 	font-size: 50px;
-	}
+}
+
+.row li {
+  width: 33.3%;
+  float: left;
+}
 
 img {
-  border: 0;
+  border: 0 none;
   display: inline-block;
   height: auto;
   max-width: 100%;
